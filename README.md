@@ -6,9 +6,9 @@
 
 * 1st * part of Coursera * unordered list in .md document
 
-'''
+```
 main()
 {
  printf("Hello World\n");
 }
-'''
+```
